@@ -1,0 +1,10 @@
+[build]
+
+# Base folder
+base="apps/shopify
+
+# build output directory
+publish = "public/"
+
+# build command
+command = "yarn build"
