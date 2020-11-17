@@ -4,4 +4,4 @@
 publish = "build/"
 
 # build command
-command = "npm start"
+command = "npm build"
