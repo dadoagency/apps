@@ -1,5 +1,7 @@
 [build]
 
+base = "apps/shopify/"
+
 # build output directory
 publish = "build/"
 
