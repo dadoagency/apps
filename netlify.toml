@@ -3,7 +3,7 @@
 # base = "apps/shopify/"
 
 # build output directory
-publish = "apps/shopify/build/"
+publish = "build/"
 
 # build command
-command = "lerna bootstrap"
+command = "npx lerna build && npm run build"
